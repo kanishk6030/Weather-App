@@ -37,7 +37,7 @@ body{
     border-radius: 10px;
     box-shadow: 10px 10px 60px rgb(130, 130, 130) ;   
     inset: -40px -40px 60px white;
-    background: url(clouds.png);
+    background: url(/icons/clouds.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-color: var(--mainContainer);

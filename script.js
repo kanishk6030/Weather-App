@@ -1,5 +1,5 @@
 const API_KEY = 'dee5232c0561498bb6b223053241810';
-const URL =`http://api.weatherapi.com/v1/forecast.json?key=${API_KEY}`;
+const URL =`https://api.weatherapi.com/v1/forecast.json?key=${API_KEY}`;
 
 let searchBox = document.querySelector('.search-box');
 let showTemp = document.querySelector('.temperature');
